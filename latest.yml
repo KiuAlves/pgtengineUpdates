@@ -1,0 +1,8 @@
+version: 3.0.0
+files:
+  - url: pgtengine-Setup-3.0.0.exe
+    sha512: p20fgLsV63zFGsvQRCR65pFXtOuwB4sgEWEXkfBWs9F/kLggxX9rfwEFNMHfkiK7zN3RvIOzL5XILb1OmLp4CA==
+    size: 94389030
+path: pgtengine-Setup-3.0.0.exe
+sha512: p20fgLsV63zFGsvQRCR65pFXtOuwB4sgEWEXkfBWs9F/kLggxX9rfwEFNMHfkiK7zN3RvIOzL5XILb1OmLp4CA==
+releaseDate: '2026-01-18T20:49:03.972Z'
